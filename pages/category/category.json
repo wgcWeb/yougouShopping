@@ -2,5 +2,5 @@
   "usingComponents": {
     "search": "../../components/searchInput/searchInput"
   },
-  "navigationBarTitleText": "优购首页"
+  "navigationBarTitleText": "商品分类"
 }
